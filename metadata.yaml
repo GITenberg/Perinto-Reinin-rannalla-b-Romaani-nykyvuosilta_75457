@@ -1,0 +1,41 @@
+_repo: Perinto-Reinin-rannalla-b-Romaani-nykyvuosilta_75457
+_version: 0.0.1
+alternative_title: Maria Capponi. Finnish
+contributor:
+  translator:
+    agent_name: Leivo, Anna
+    gutenberg_agent_id: '58008'
+    url: http://www.gutenberg.org/2009/agents/58008
+creator:
+  author:
+    agent_name: Schickele, René
+    aliases:
+    - Schickele, Rene
+    - Schickele, René Marie Maurice Armand
+    birthdate: 1883
+    deathdate: 1940
+    gutenberg_agent_id: '41109'
+    url: http://www.gutenberg.org/2009/agents/41109
+    wikipedia: https://en.wikipedia.org/wiki/Ren%C3%A9_Schickele
+description: The 1st German edition (2 v. 1925) was entitled "Ein erbe am Rhein";
+  as republished 1926, under title "Maria Capponi," it forms the 1st volume of a trilogy,
+  "Das erbe am Rhein."
+gutenberg_issued: '2025-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75457'
+language: fi
+pgterms:marc905: 20241102014952schickele
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Perintö Reinin rannalla : $b Romaani nykyvuosilta'
+url: http://www.gutenberg.org/ebooks/75457
