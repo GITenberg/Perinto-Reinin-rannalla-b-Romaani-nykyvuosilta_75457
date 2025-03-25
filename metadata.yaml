@@ -6,6 +6,9 @@ contributor:
     agent_name: Leivo, Anna
     gutenberg_agent_id: '58008'
     url: http://www.gutenberg.org/2009/agents/58008
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schickele, René
@@ -20,6 +23,8 @@ creator:
 description: The 1st German edition (2 v. 1925) was entitled "Ein erbe am Rhein";
   as republished 1926, under title "Maria Capponi," it forms the 1st volume of a trilogy,
   "Das erbe am Rhein."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75457#Perinto-Reinin-rannalla-b-Romaani-nykyvuosilta
 gutenberg_issued: '2025-02-24'
 gutenberg_type: Text
 identifiers:
